@@ -1,0 +1,25 @@
+body{
+
+    
+    font-family:'Sakkal Majalla';
+   
+}
+
+.row1 ,.row2{
+    
+    margin: 20px;
+    
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+   flex-wrap: wrap ;    
+
+}
+.row3{
+
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: space-around;
+   flex-wrap: wrap ;    
+}

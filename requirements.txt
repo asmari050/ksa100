@@ -1,0 +1,10 @@
+dash==2.16.0
+dash_bootstrap_components==1.5.0
+dash_table==5.0.0
+Flask==3.0.2
+matplotlib==3.7.5
+pandas==2.0.3
+yfinance==0.2.37
+zigzag==0.3.2
+gunicorn
+dash-tools
